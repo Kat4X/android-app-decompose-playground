@@ -1,0 +1,3 @@
+package com.kat4x.decomposeplayground.navigation
+
+interface RootComponent
